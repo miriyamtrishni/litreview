@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: "Roboto", Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+.MuiContainer-root {
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
